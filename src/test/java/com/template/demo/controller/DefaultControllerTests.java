@@ -39,7 +39,7 @@ public class DefaultControllerTests {
     }
 
     private String mockDefaultResponse() {
-        return title + "Hello! You have successfully set up your Java17 GraphQL Gradle SpringBoot:3.3 environment by using the Lazsa template. You're all set to start coding. " +
+        return title + "Hello! You have successfully set up your Java17 GraphQL Gradle SpringBoot:3.4 environment by using the Lazsa template. You're all set to start coding. " +
             "<br/> <br/>" +
             "NOTE: for GraphQL testing instructions, please go through the README file in the root directory";
     }
